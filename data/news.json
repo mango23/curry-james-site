@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-07-30 10:20",
+  "updatedAt": "2026-07-30 10:48",
   "source": "每日自动更新 · Google News / ESPN RSS / NBA.com + 人工校准",
   "items": [
+    {
+      "date": "2026-07-30",
+      "tag": "动态",
+      "title": "Draymond returns to Warriors on 1-year deal",
+      "desc": "Draymond Green has agreed to return to the Warriors on a one-year, $27.7 million deal.",
+      "url": "https://www.espn.com/nba/story/_/id/49472083/draymond-green-returns-warriors-1-year-277m-deal"
+    },
     {
       "date": "2026-07-30",
       "tag": "动态",
@@ -77,13 +84,6 @@
       "tag": "公益",
       "title": "Eat. Learn. Play. 基金会扩建奥克兰社区中心",
       "desc": "库里与妻子 Ayesha 共同创立的基金会宣布在奥克兰落成第三所社区学习中心，持续投入湾区儿童的餐食、阅读与体育教育。",
-      "url": "https://www.nba.com/warriors/news"
-    },
-    {
-      "date": "2026-07-10",
-      "tag": "训练",
-      "title": "库里夏训视频曝光：招牌三分雨依旧精准",
-      "desc": "训练师发布的短片中，库里在对抗下连续命中超远三分，手感未因年龄与伤病明显下滑，引发球迷对新赛季的期待。",
       "url": "https://www.nba.com/warriors/news"
     }
   ]
